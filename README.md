@@ -10,12 +10,12 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | https://github.com/fernandoleonid/mini-projetos-js
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://imgur.com/mmIOcFw#vitrinedev)
+![](https://imgur.com/mmIOcFw.png#vitrinedev)
 
 ## Detalhes do projeto
 
 Criei esse projeto para aplicar meu conhecimento em javaScript.
 
-![](https://imgur.com/mqRiaC4#vitrinedev)
+![](https://imgur.com/mqRiaC4.gif#vitrinedev)
 
 o intuito desse projeto é ampliar meu conhecimento em DOM e criação de itens de forma dinâmica.
