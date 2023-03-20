@@ -10,7 +10,7 @@
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://imgur.com/mmIOcFw.png#vitrinedev)
 
-## Detalhes do projeto
+## About
 
 Criei esse projeto para aplicar meu conhecimento em javaScript.
 
