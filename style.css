@@ -1,0 +1,46 @@
+.container {
+    background-color: black;
+    width: 40vw;
+    height: 40vh;
+    margin: 8em auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 25px rgba(47, 135, 250, 0.856);
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    overflow: hidden;
+}
+
+.containerImg {
+    display: flex;
+    position: absolute;
+}
+
+.item {
+    width: 40vw;
+    height: 40vh;
+    border-radius: 10px;
+    transition: all 1s;
+}
+
+.item:first-child {
+    margin-left: -40vw;
+    transition: all 1s;
+}
+
+.botao {
+    height: 40vh;
+    width: 40px;
+    position: relative;
+    border-radius: 10px;
+    border: none;
+    background-color: transparent;
+    color: transparent;
+}
+
+.botao:hover {
+    cursor: pointer;
+    color: white;
+    background-color: #00000065;
+    transition: all 1s;
+}
